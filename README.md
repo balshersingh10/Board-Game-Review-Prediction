@@ -1,5 +1,5 @@
-# Prediction of Board-Game-Review Using Supervised Machine Learning Techniques
-We obtained the Board Game Review dataset from **ThaWeatherman's** repository and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Linear Regression and Random Forest Regression.
+# Prediction of Board-Game-Average-Rating Using Supervised Machine Learning Techniques
+We obtained the Board Game Review dataset from **ThaWeatherman's** github repository(MIT License) and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Linear Regression and Random Forest Regression.
 ## A. Feature Selection
 Feature selection is finding the subset of original features by different approaches based on the information they provide, accuracy, prediction errors.
 The features used in the project are:
