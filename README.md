@@ -1,3 +1,4 @@
+![ML](https://media-exp1.licdn.com/dms/image/C4D12AQEpT9a_XdqA7g/article-cover_image-shrink_720_1280/0?e=1591228800&v=beta&t=xKHzfbZE5Kk4YHcTow_6sXE0Ec-PoHuQpYMaTjhAm1c)
 # Prediction of Board-Game-Average-Rating Using Supervised Machine Learning Techniques
 We obtained the Board Game Review dataset from **ThaWeatherman's** github repository(MIT License) and used Jupyter Notebook as the platform for the purpose of coding. Our methodology involves use of classification techniques like Linear Regression and Random Forest Regression.
 ## A. Feature Selection
